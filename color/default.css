@@ -1,0 +1,38 @@
+
+a,.tp-caption a.btn:hover {
+	color: darkgrey;
+}
+.top-nav-collapse {
+	background: darkgrey;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: darkgrey;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: darkgrey;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid darkgrey;
+}
+
+.bg-skin {
+	background: darkgrey;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: darkgrey;
+}
+
+footer {
+    background-color: darkgrey;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: darkgrey;
+  border-color: darkgrey;
+}
